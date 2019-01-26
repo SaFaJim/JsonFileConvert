@@ -70,14 +70,14 @@
     Test项目Program->  SaveTest(JsonToolType.Newtonsoft); 方法为测试将list序列化后保存为json.txt文本文件，可以修改里面的生成list数量来测试
     Test项目Program->   ConvertTest(JsonToolType.FastJson);方法为测试将json.txt文本文件反序列化为list
     JsonToolType枚举类型定义如下
-    ```
+```
      public enum JsonToolType
     {
         Newtonsoft = 1,
         Swifter = 2,
         FastJson = 3,
     }
-    ```
+```
  
  
 最后感谢Swifter.json 作者提供帮助，Swifter.json github的地址为 https://github.com/Dogwei/Swifter
