@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonFileConvert", "JsonFileConvert\JsonFileConvert.csproj", "{72C47BB9-2B9B-4615-A98A-02492E1E4BE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{E8C598ED-5400-4AC2-BE32-51E7CF4D139B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72C47BB9-2B9B-4615-A98A-02492E1E4BE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72C47BB9-2B9B-4615-A98A-02492E1E4BE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72C47BB9-2B9B-4615-A98A-02492E1E4BE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72C47BB9-2B9B-4615-A98A-02492E1E4BE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8C598ED-5400-4AC2-BE32-51E7CF4D139B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8C598ED-5400-4AC2-BE32-51E7CF4D139B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8C598ED-5400-4AC2-BE32-51E7CF4D139B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8C598ED-5400-4AC2-BE32-51E7CF4D139B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
