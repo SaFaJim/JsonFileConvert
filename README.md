@@ -80,5 +80,4 @@
 ```
  
  
-最后感谢Swifter.json 作者提供帮助，Swifter.json github的地址为 https://github.com/Dogwei/Swifter
-JsonFileConvert类库有问题请提交说明或者发邮件到1812813640@qq.com
+ 
